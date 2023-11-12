@@ -1,1 +1,3 @@
 # Realtime-rec-system
+This is the introducing document of the data warehouse building.
+updating...
